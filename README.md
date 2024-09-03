@@ -1,3 +1,4 @@
+The code and data in this repository are focused on estimating the Remaining Useful Lifetime (RUL) of sliding strips for Chongqing Metro Line 6, primarily based on the gamma process model.
 store sliding strips degradation path data and Remaining Useful Lifetime calculation MATLAB code
 The folder MATLAB_pcode_DREAM_PACKAGE_V2.0 needs to be extracted before it can be used.
 The main.m file provides a calculation example. Since this program utilizes a package developed by others, you need to manually input the commands.
