@@ -1,0 +1,48 @@
+======================== DREAM_ZS diagnostics file ========================
+
+TABLE 3: DREAM_ZS SINGLE CHAIN CONVERGENCE DIAGNOSTICS
+---------------------------------------------------------------------------
+ CHAIN 1 USING 5001 SAMPLES
+
+A. AUTOCORRELATION 
+Variable      Lag 1      Lag 5     Lag 10     Lag 25 
+1             0.863      0.450      0.187      0.017 
+2             0.828      0.400      0.201      0.064 
+
+B. RAFTERY-LEWIS DIAGNOSTIC (q = 0.03, r = 0.01, s = 0.95)
+Variable       Thin       Burn          N       Nmin     I-stat 
+1                 1         32       8914        937      9.513 
+2                 1         32       8914        937      9.513 
+
+C. GEWEKE DIAGNOSTIC
+Variable       Mean    std dev    NSE iid    RNE iid 
+1             0.702      0.219      0.003      1.000 
+2             0.416      0.286      0.004      1.000 
+
+Variable     NSE 4%     RNE 4%     NSE 8%     RNE 8%    NSE 15%    RNE 15% 
+1             0.006      0.244      0.005      0.352      0.004      0.574 
+2             0.011      0.142      0.008      0.233      0.007      0.383 
+
+---------------------------------------------------------------------------
+ CHAIN 2 USING 5001 SAMPLES
+
+A. AUTOCORRELATION 
+Variable      Lag 1      Lag 5     Lag 10     Lag 25 
+1             0.860      0.476      0.238      0.031 
+2             0.843      0.432      0.195      0.029 
+
+B. RAFTERY-LEWIS DIAGNOSTIC (q = 0.03, r = 0.01, s = 0.95)
+Variable       Thin       Burn          N       Nmin     I-stat 
+1                 1         21       5610        937      5.987 
+2                 1         21       5610        937      5.987 
+
+C. GEWEKE DIAGNOSTIC
+Variable       Mean    std dev    NSE iid    RNE iid 
+1             0.709      0.217      0.003      1.000 
+2             0.453      0.305      0.004      1.000 
+
+Variable     NSE 4%     RNE 4%     NSE 8%     RNE 8%    NSE 15%    RNE 15% 
+1             0.009      0.109      0.007      0.184      0.006      0.238 
+2             0.011      0.142      0.012      0.131      0.010      0.182 
+
+====================== End DREAM_ZS diagnostics file ======================

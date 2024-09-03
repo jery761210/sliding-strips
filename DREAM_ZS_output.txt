@@ -1,0 +1,22 @@
+=========================== DREAM_ZS output file ==========================
+
+TABLE 1: DREAM_ZS POSTERIOR PARAMETER STATISTICS
+|-----------------------------------------------------|
+| Parameter      ML        MAP      MEAN      STD     |
+|-----------------------------------------------------|
+|   x_{1}      +1.000    +1.000    +0.700    +0.220   |
+|   x_{2}      +0.005    +0.005    +0.421    +0.296   |
+|-----------------------------------------------------|
+ML: Maximum Likelihood values
+MAP: Maximum A-Posteriori density values
+MEAN: Posterior mean values
+STD: Posterior standard deviation
+
+TABLE 2: DREAM_ZS POSTERIOR CORRELATION COEFFICIENTS
+|-----------------------------|
+|             x_{1}    x_{2}  |
+|   x_{1}     1.00    -0.03   |
+|   x_{2}    -0.03     1.00   |
+|-----------------------------|
+
+========================= End DREAM_ZS output file ========================
